@@ -1,4 +1,5 @@
 # Food-Image-Recognition
+create conda envirnoment with python 3.8 and instll all the requirements using requirements.txt file
 
 
 <!-- TABLE OF CONTENTS -->
